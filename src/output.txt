@@ -1,0 +1,9 @@
+Enter current location	
+leicester
+Enter Destination location	
+nottingham
+Enter Approximate distance(in miles)	
+50
+Enter Approximate time duration in minutes	
+60
+Total cost of Journey is 80.0232
